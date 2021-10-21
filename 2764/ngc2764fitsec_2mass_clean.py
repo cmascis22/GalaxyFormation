@@ -55,7 +55,7 @@ def fit_ngc2764():
 
     file_dir = path.dirname(path.realpath(mgefit.__file__))  # path of mgefit
 
-    file = '/home/danielle/mge_fitting/mgefit/images/ngc_2764_2mass_crop.fits'
+    file = 'ngc_2764_2mass_crop.fits'
 
     #### SFind Galaxy outputs and Constants:
 
